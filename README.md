@@ -8,6 +8,8 @@ You can play the game on itch.io :
 https://mryilanci.itch.io/repair-man-ggj2020-denizli
 
 
+
+
 ![ggj_2020_denizli_all](https://user-images.githubusercontent.com/41707639/136242848-76b4417e-ed91-4a34-ad5a-15d0003979d0.png)
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/41707639/136243221-03a9d785-c507-41cc-b870-1a124ebe5796.PNG)
 ![2](https://user-images.githubusercontent.com/41707639/136243518-a03877e8-79a8-4835-8699-e7b6d558fb36.PNG)
