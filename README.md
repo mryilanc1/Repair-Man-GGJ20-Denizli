@@ -1,6 +1,6 @@
 #   Repair-Man-GGJ20-Denizli
 
-Desgined and Developed by Unity for Android Phones
+Desgined and Developed by Unity (2019.2.19) for Android Phones
 
 You can play the game on itch.io :
 https://mryilanci.itch.io/repair-man-ggj2020-denizli
