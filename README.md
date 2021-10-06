@@ -1,4 +1,7 @@
-#                  Repair-Man-GGJ20-Denizli
+#   Repair-Man-GGJ20-Denizli
+
+## Development for Android Phones
+
 
 ![ggj_2020_denizli_all](https://user-images.githubusercontent.com/41707639/136242848-76b4417e-ed91-4a34-ad5a-15d0003979d0.png)
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/41707639/136243221-03a9d785-c507-41cc-b870-1a124ebe5796.PNG)
