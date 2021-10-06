@@ -1,6 +1,6 @@
 #   Repair-Man-GGJ20-Denizli
 
-Desgined and Developed by Unity (2019.2.19) for Android Phones
+Desgined and Developed by Unity (2019.2.19) for Android Phones in Global Game Jam 2020 - Denizli
 
 Global Game jam Page : https://v3.globalgamejam.org/2020/games/repair-man-9
 
