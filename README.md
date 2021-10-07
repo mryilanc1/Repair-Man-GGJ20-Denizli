@@ -10,7 +10,7 @@ https://mryilanci.itch.io/repair-man-ggj2020-denizli
 
 
 
-![ggj_2020_denizli_all](https://user-images.githubusercontent.com/41707639/136242848-76b4417e-ed91-4a34-ad5a-15d0003979d0.png)
+![ggj_20_Denizli_logo](https://user-images.githubusercontent.com/41707639/136345820-2281571e-c651-4b72-a2b9-d2a38e20c227.png)
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/41707639/136243221-03a9d785-c507-41cc-b870-1a124ebe5796.PNG)
 ![2](https://user-images.githubusercontent.com/41707639/136243518-a03877e8-79a8-4835-8699-e7b6d558fb36.PNG)
 ![3](https://user-images.githubusercontent.com/41707639/136243520-52aeae75-bfd7-4fe3-9c5c-f24cdef50aaf.PNG)
